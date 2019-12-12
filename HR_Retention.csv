@@ -1,0 +1,51 @@
+Age,Attrition,Business Travel,Daily Rate,Department,DistanceFromHome,Education,EducationField,EmployeeNumber,EnvironmentSatisfaction,Gender,DailyRate,JobInvolvement,JobLevel ,JobRole,NumberYearsOfService
+22,Yes,Travel_rarely,112,Sales,14,Graduate,Accounting/Commerce,1,Not Satisfactory,Male,400,Low,2,Sales Manager,2
+42,No,Travel_frequently,567,R&D,6,Doctorate,Software Development,2,Satisfactory,Female,6000,High,4,Departmental Head,18
+32,No,Travel_rarely,424,R&D,2,Doctorate,Software Development,3,Partly Satisfactory,Female,6000,High,4,Sr. Engineer,8
+34,Yes,Travel_frequently,454,R&D,4,Masters,Software Development,4,Partly Satisfactory,Female,4000,Low,3,Sr. Research Associate,9
+28,No,Travel_frequently,345,R&D,4,Masters,Software Development,5,Satisfactory,Male,4000,High,3,Sr. Research Associate,4
+41,No,Travel_frequently,424,Accounting,5,Graduate,Accounting/Commerce,6,Satisfactory,Male,600,High,2,Departmental Head,21
+25,Yes,Travel_rarely,122,Sales,6,High School,Arts,7,Not Satisfactory,Female,400,Low,1,Sales Representative,7
+29,No,Travel_frequently,434,Sales,7,High School,Arts,8,Partly Satisfactory,Male,400,High,1,Sales Representative,9
+30,No,Travel_rarely,454,Accounting,12,Graduate,Accounting/Commerce,9,Satisfactory,Male,600,High,2,Accounts Executive,9
+31,No,Travel_rarely,458,Accounting,14,Graduate,Accounting/Commerce,10,Satisfactory,Male,600,High,2,Accounts Executive,11
+24,No,Travel_frequently,767,Accounting,16,Graduate,Accounting/Commerce,11,Satisfactory,Male,600,High,2,Accounts Executive,3
+27,No,Travel_frequently,234,Technical,18,Graduate,Software Development,12,Satisfactory,Female,1000,High,2,Jr. Engineer,6
+31,No,Travel_frequently,490,Sales,5,Graduate,Software Development,13,Partly Satisfactory,Female,400,High,2,Sales Executive,11
+22,Yes,Travel_rarely,796,Marketing,4,Graduate,Commerce,14,Partly Satisfactory,Male,900,Low,2,Departmental Head,1
+21,Yes,Travel_rarely,670,Marketing,7,Graduate,Science,15,Satisfactory,Male,900,Low,2,Marketing Manager,1
+24,No,Travel_frequently,657,Marketing,7,Graduate,Science,16,Not Satisfactory,Female,900,High,2,Marketing Executive,4
+25,No,Travel_frequently,745,Marketing,1,Graduate,Statistics,17,Not Satisfactory,Female,900,High,2,Marketing Executive,4
+27,Yes,Travel_frequently,129,R&D,11,Doctorate,Software Development,18,Not Satisfactory,Male,6000,Low,4,Sr. Engineer,2
+42,Yes,Travel_rarely,757,R&D,4,Doctorate,Software Development,19,Not Satisfactory,Female,6000,Low,4,Sr. Engineer,17
+32,Yes,Travel_rarely,568,Technical,2,Masters,Software Development,20,Not Satisfactory,Female,2000,Low,3,Section Engineer,8
+34,Yes,Travel_frequently,907,Technical,9,Masters,Software Development,21,Partly Satisfactory,Male,2000,Low,3,Section Engineer,10
+28,Yes,Travel_frequently,688,Technical,18,Graduate,Software Development,22,Partly Satisfactory,Male,1000,Low,2,Jr. Engineer,6
+41,Yes,Travel_frequently,654,Technical,2,Graduate,Software Development,23,Partly Satisfactory,Female,1000,Low,2,Jr. Engineer,17
+25,No,Travel_rarely,457,Technical,1,Graduate,Software Development,24,Partly Satisfactory,Female,1000,High,2,Jr. Engineer,4
+29,Yes,Travel_frequently,854,Technical,3,Graduate,Software Development,25,Partly Satisfactory,Male,1000,Low,2,Jr. Engineer,6
+30,No,Travel_frequently,778,Sales,5,High School,Science,26,Partly Satisfactory,Female,400,High,1,Sales Representative,12
+25,No,Travel_frequently,579,Accounting,4,Graduate,Accounting/Commerce,27,Partly Satisfactory,Female,600,High,2,Accounts Executive,4
+32,Yes,Travel_frequently,789,Sales,6,High School,Arts,28,Partly Satisfactory,Female,400,Low,1,Sales Representative,12
+34,Yes,Travel_frequently,987,Sales,6,High School,Commerce,29,Not Satisfactory,Female,400,Low,1,Sales Representative,16
+45,No,Travel_rarely,769,Accounting,4,Graduate,Accounting/Commerce,30,Satisfactory,Male,600,High,2,Accounts Executive,25
+47,No,Travel_rarely,479,Accounting,3,Graduate,Accounting/Commerce,31,Satisfactory,Male,600,High,2,Accounts Executive,27
+52,No,Travel_rarely,454,R&D,14,Masters,Software Development,32,Satisfactory,Female,4000,High,3,Sr. Engineer,27
+34,No,Travel_frequently,452,Sales,2,Graduate,Commerce,33,Satisfactory,Male,400,High,2,Sales Executive,12
+57,Yes,Travel_rarely,896,Accounting,5,Graduate,Accounting/Commerce,34,Not Satisfactory,Female,600,Low,2,Accounts Executive,37
+48,Yes,Travel_rarely,457,R&D,4,Masters,Software Development,35,Not Satisfactory,Male,4000,Low,3,Sr. Engineer,21
+40,No,Travel_rarely,578,Accounting,9,Graduate,Accounting/Commerce,36,Partly Satisfactory,Male,600,High,2,Accounts Executive,18
+49,No,Travel_rarely,542,Sales,8,High School,Arts,37,Satisfactory,Male,400,High,1,Sales Representative,29
+54,No,Travel_rarely,427,Sales,6,High School,Arts,38,Satisfactory,Male,400,High,1,Sales Representative,36
+27,No,Travel_frequently,654,Marketing,6,Graduate,Statistics,39,Satisfactory,Female,900,High,2,Marketing Manager,6
+29,No,Travel_frequently,976,Marketing,9,Graduate,Accounting/Commerce,40,Partly Satisfactory,Male,900,High,2,Marketing Executive,9
+37,No,Travel_frequently,459,Sales,9,High School,Science,41,Satisfactory,Male,400,High,1,Sales Representative,17
+26,Yes,Travel_frequently,972,Technical,10,Masters,Software Development,42,Partly Satisfactory,Male,2000,Low,3,Section Engineer,2
+27,Yes,Travel_frequently,245,Technical,16,Masters,Software Development,43,Not Satisfactory,Female,2000,Low,3,Section Engineer,2
+21,Yes,Travel_frequently,248,Technical,12,Graduate,Software Development,44,Not Satisfactory,Male,1000,Low,2,Jr. Engineer,1
+38,Yes,Travel_frequently,267,Technical,4,Graduate,Software Development,45,Not Satisfactory,Female,1000,Low,2,Jr. Engineer,16
+25,Yes,Travel_frequently,976,Marketing,10,Graduate,Science,46,Not Satisfactory,Female,900,Low,2,Marketing Executive,4
+29,No,Travel_frequently,760,Marketing,6,Graduate,Statistics,47,Partly Satisfactory,Female,900,High,2,Marketing Executive,7
+30,No,Travel_frequently,545,Sales,17,Graduate,Science,48,Satisfactory,Male,400,High,2,Sales Executive,9
+46,Yes,Travel_rarely,876,Sales,18,Graduate,Commerce,49,Not Satisfactory,Female,400,Low,2,Sales Executive,22
+48,Yes,Travel_rarely,451,R&D,14,Doctorate,Software Development,50,Partly Satisfactory,Male,6000,Low,4,Sr. Engineer,21
